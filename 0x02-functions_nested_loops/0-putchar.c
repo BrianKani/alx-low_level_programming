@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <main.h>
 main()
 {
   int i=0;
