@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * prints a string
- * main - Entry point
+ * _puts_recursion - prints a string, followed by a new line.
+ * @s: string
  * return: no return
 */
 
